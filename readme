@@ -1,0 +1,32 @@
+# Trilha de CSS da DIO
+
+![Trilha de CSS da DIO](db8b2e8c-4c86-4d5e-bedb-973b018d0a8d.png)
+
+## Descrição
+
+Esta é uma landing page inspirada na **Trilha de CSS da DIO**, voltada para iniciantes e desenvolvedores que desejam aprender CSS do zero. A página apresenta informações sobre os módulos do curso, incentiva o usuário a se inscrever e mostra depoimentos motivacionais para engajar profissionais na evolução de suas habilidades.
+
+A página foi construída utilizando **HTML e CSS puro**, sem frameworks externos, com foco em responsividade e design moderno.
+
+---
+
+## Funcionalidades
+
+- **Seção Hero:** Apresenta o curso com título, descrição e botão de inscrição.
+- **O que vou aprender:** Lista os 3 módulos do curso com destaque para cada um.
+- **Chamada para ação:** Botão grande para engajar os usuários a se inscreverem.
+- **Depoimentos:** Seção com texto motivacional incentivando a evolução profissional.
+- **Rodapé:** Contém o logo da DIO e convite para cadastro na plataforma.
+
+---
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Flexbox e Grid para layout
+- Cores e tipografia inspiradas no branding da DIO
+
+---
+
+
